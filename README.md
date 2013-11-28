@@ -1,0 +1,4 @@
+BatteryBuddy
+============
+
+Smart battery discharger
